@@ -109,7 +109,7 @@ Exiting the Application
 Notes
 Data Persistence: Ensure you save data before exiting if you want to retain the student records.
 Unique IDs: Each student must have a unique ID. Duplicate IDs are not allowed.
-GPA Range: GPA must be a numeric value between 0.0 and 4.0.
+GPA Range: GPA must be a numeric value between 0.0 and 5.0.
 
 Troubleshooting
 JavaFX Errors: Ensure the JavaFX SDK is correctly set up and the module paths are properly configured.
